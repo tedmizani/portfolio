@@ -13,7 +13,7 @@ const AboutMe = () => {
         <div className="col-lg-6 col-xm-12">
           <h1 className="about-heading">about me</h1>
           <p>
-            Hi. I am Tohid. I have been developing websites for over 2 years. I'm front-end Web Developer. 
+            Hi. I am Tohid. I have been developing websites for over 2 years. I'm a front-end Web Developer. 
 
             I create responsive websites that are displayed on all devices desktops and smartphones.
             
